@@ -1,0 +1,15 @@
+{
+    "name": "Youtube",
+    "description": "",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "youtube-dl": "^3.0.2",
+        "youtube-search-without-api-key": "^1.0.6"
+    }
+}
